@@ -1,1 +1,3 @@
 Solving the one-dimensional model problem −𝑢"(𝑥)+𝜎𝑢(𝑥)=𝑓, with homogenous boundary conditions using geometric multigrid (V cycle) and full multigrid. The exact solution to the model problem is 𝑢(𝑥)=𝐶/(𝜋^2*𝑘^2+𝜎)*sin(𝑘𝜋𝑥).
+For 𝑘=1 and 10, weighted Jacobi, Gauss-Seidel and V-cycle iterations are applied. The residual 2-norm against the number of iterations for all three methods are compared.
+The numerical solutions are compared with the analytical solution.
