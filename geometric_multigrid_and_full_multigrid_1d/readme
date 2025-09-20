@@ -1,1 +1,1 @@
-Solving the one-dimensional model problem −𝑢"(𝑥)+𝜎𝑢(𝑥)=𝑓, with homogenous boundary conditions. The exact solution to the model problem is 𝑢(𝑥)=𝐶/(𝜋^2*𝑘^2+𝜎)*sin(𝑘𝜋𝑥).
+Solving the one-dimensional model problem −𝑢"(𝑥)+𝜎𝑢(𝑥)=𝑓, with homogenous boundary conditions using geometric multigrid (V cycle) and full multigrid. The exact solution to the model problem is 𝑢(𝑥)=𝐶/(𝜋^2*𝑘^2+𝜎)*sin(𝑘𝜋𝑥).
