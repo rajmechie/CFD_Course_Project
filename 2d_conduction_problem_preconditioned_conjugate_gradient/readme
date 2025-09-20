@@ -1,0 +1,3 @@
+Solution of the 2D conduction problem using conjugate gradient method, preconditioned conjugate gradient method with Jacobi, ILU and SIP preconditioners.
+The analytical results and the numerical results are compared. For 𝑁𝑖=𝑁𝑗=4, the values of diagonals of 𝐿 and 𝑈 matrices coming from ILU and SIP factorization are compared.
+The temperature variation with y along mid-vertical plane x = 0.5 obtained from the analytical and numerical solutions and the temperature variation with x along mid-horizontal plane y = 0.5 obtained from the analytical and numerical solutions are compared.
